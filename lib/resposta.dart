@@ -16,10 +16,13 @@ Resposta(this.texto, this.quandoSelecionado);
             
             child: RaisedButton(
 
+              
             textColor: Colors.white,
             color: Colors.purple,
             child: Text(texto),
-              onPressed: quandoSelecionado,
+            onPressed: quandoSelecionado,
+              
+
                 
             shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(8.0),
