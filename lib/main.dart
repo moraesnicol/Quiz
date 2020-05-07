@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import './questionario.dart';
 import './resultado.dart';
 
+
+
 main() => runApp(PerguntaApp());
 
 class _PerguntaAppState extends State<PerguntaApp> {
@@ -52,12 +54,21 @@ class _PerguntaAppState extends State<PerguntaApp> {
     print(_pontuacaoTotal);
   }
 
+  void _reiniciarQuestionario() {
+    setState(() {
+      _perguntaSelecionada = 0;
+      _pontuacaoTotal = 0;
+    });
+  }
+
   bool get temPerguntaSelecionada {
     return _perguntaSelecionada < _perguntas.length;
   }
 
   @override
   Widget build(BuildContext context) {
+
+    
     
 
     return MaterialApp(
@@ -68,19 +79,20 @@ class _PerguntaAppState extends State<PerguntaApp> {
           tooltip: 'Navigation menu',
           onPressed: null,
         ),
-          title: Text('Quis Anatômico'),
+          title: Text('Quiz Anatômico'),
           
           backgroundColor: Colors.purple,
           centerTitle: true,
  
         ),
         body: temPerguntaSelecionada
+        
             ? Questionario(
               perguntas: _perguntas,
               perguntaSelecionada: _perguntaSelecionada,
               quantoResponder: _responder,
             )
-            : Resultado(_pontuacaoTotal),
+            : Resultado(_pontuacaoTotal, _reiniciarQuestionario),
             ),
             
               

@@ -1,19 +1,36 @@
-# quiz
+<p align="center">
+<img align="" width="300" height="600" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz">
+</p>
+                            
+    
+<br />
+<br />
+<h3 align="center">
+Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; )
+</h3>
+<br />
+<br />
 
-A new Flutter project.
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
-## Getting Started
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
 
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
+</p>
+<br>
 
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmnRqrdzDMTSiEwWkwToKmF%2FGif-starter-template-Copy%3Fnode-id%3D115239%253A89%26scaling%3Dscale-down" allowfullscreen></iframe>
+## :rocket: Tecnologias
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido com a seguintes tecnologias:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 💻 Projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um mini Quiz de anatomia
+
