@@ -1,6 +1,6 @@
 
 
-<center><img align="right" width="100" height="100" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz"></center>
+<center><img align="center" width="400" height="700" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz"></center>
 
 
                             
