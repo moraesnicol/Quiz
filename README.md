@@ -1,6 +1,8 @@
 
 
-<center>![quiz_gif](https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif)</center>
+<center><a href="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif"><img src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz"></center>
+
+
                             
     
 
