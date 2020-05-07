@@ -39,6 +39,5 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Um mini Quiz de anatomia
 
 
-    
->>>>>>> f2df19fe9e172215f9c52ffcc4bf30ce1cbba7f7
+
 
