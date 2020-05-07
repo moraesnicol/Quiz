@@ -29,7 +29,7 @@ Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; 
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com a seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [Flutter](https://flutter.dev/)
 
