@@ -1,14 +1,13 @@
 
-
-<center><img align="center" width="400" height="700" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz"></center>
-
-
+<p align="center">
+<img align="" width="" height="" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz">
+</p>
                             
     
 
-<h4 align="center">
+<h3 align="center">
 Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; )
-</h4>
+</h3>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
