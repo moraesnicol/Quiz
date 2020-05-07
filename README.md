@@ -1,8 +1,12 @@
+
+                   
+
 <p align="center">
-<img align="" width="300" height="600" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiz">
+<img align="" width="300" height="600" src="https://github.com/moraesnicol/Quiz/blob/master/Quizgiffinal.gif" title="quiiz">
 </p>
-                            
-    
+         
+
+
 <br />
 <br />
 <h3 align="center">
@@ -26,11 +30,15 @@ Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; 
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com a seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [Flutter](https://flutter.dev/)
 
 ## 💻 Projeto
 
 Um mini Quiz de anatomia
+
+
+    
+>>>>>>> f2df19fe9e172215f9c52ffcc4bf30ce1cbba7f7
 
