@@ -1,6 +1,8 @@
-  ![quiz_gif](https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif)
+<p align="center">
+
+![quiz_gif](https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif)
                             
-          
+ </p>         
 
 <h4 align="center">
 Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; )
@@ -23,7 +25,7 @@ Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; 
 
 Esse projeto foi desenvolvido com a seguintes tecnologias:
 
-- [Flutter]https://flutter.dev/)
+- [Flutter](https://flutter.dev/)
 
 ## 💻 Projeto
 
