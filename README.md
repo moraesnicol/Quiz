@@ -1,8 +1,4 @@
-
-<p align="center">
-<img align="" width="300" height="600" src="https://github.com/moraesnicol/Quiz/blob/master/quizgif.gif" title="quiiz">
-</p>
-                            
+                   
     
 <br />
 <br />
